@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\multz\\OneDrive\\Desktop\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B1\\1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9888F695-22B6-4A0A-8DD0-B26278A7E3C3}|1\\1.vcxproj|C:\\Users\\multz\\OneDrive\\Desktop\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B1\\1\\1\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9888F695-22B6-4A0A-8DD0-B26278A7E3C3}|1\\1.vcxproj|solutionrelative:1\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1.cpp",
+              "DocumentMoniker": "C:\\Users\\multz\\OneDrive\\Desktop\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B1\\1\\1\\1.cpp",
+              "RelativeDocumentMoniker": "1\\1.cpp",
+              "ToolTip": "C:\\Users\\multz\\OneDrive\\Desktop\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B1\\1\\1\\1.cpp*",
+              "RelativeToolTip": "1\\1.cpp*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-22T14:38:50.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
